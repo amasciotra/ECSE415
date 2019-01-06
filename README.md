@@ -1,7 +1,7 @@
-# ComputerVision 
-Intro to Computer Vision (ECSE415) assignments - Jupyter Notebook (python assignments)
+# Computer Vision 
+Intro to Computer Vision (ECSE415) assignments - Jupyter Notebook in Python
 
-<a href="https://github.com/amasciotra/ECSE_415_Final_Project">Link</a> to my final project - Localization, classification, object detection and recognition.
+<a href="https://github.com/amasciotra/ECSE_415_Final_Project">Link</a> to my final project - Localization, classification, Object Detection and Recognition.
 
 Course Description: 
 #
